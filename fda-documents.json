@@ -1,0 +1,884 @@
+[
+  {
+    "Record_Date": "04/29/2025",
+    "FEI_Number": 3011110195,
+    "Legal_Name": "East Orange VA Medical Center",
+    "Record_Type": 483,
+    "Publish_Date": "06/02/2025",
+    "Download": "https://www.fda.gov/media/186720/download",
+    "Record_ID": 285384
+  },
+  {
+    "Record_Date": "05/15/2025",
+    "FEI_Number": 3032314463,
+    "Legal_Name": "Apothecary Pharma LLC",
+    "Record_Type": 483,
+    "Publish_Date": "06/02/2025",
+    "Download": "https://www.fda.gov/media/186741/download",
+    "Record_ID": 285383
+  },
+  {
+    "Record_Date": "01/16/2025",
+    "FEI_Number": 3003195501,
+    "Legal_Name": "Sanofi-Aventis Deutschland GmbH",
+    "Record_Type": 483,
+    "Publish_Date": "05/23/2025",
+    "Download": "https://www.fda.gov/media/186637/download",
+    "Record_ID": 285388
+  },
+  {
+    "Record_Date": "04/16/2025",
+    "FEI_Number": 3003999190,
+    "Legal_Name": "Zhejiang Huahai Pharmaceutical Co., Ltd.",
+    "Record_Type": 483,
+    "Publish_Date": "05/23/2025",
+    "Download": "https://www.fda.gov/media/186642/download",
+    "Record_ID": 285387
+  },
+  {
+    "Record_Date": "11/22/2024",
+    "FEI_Number": 3010031951,
+    "Legal_Name": "Samsung Bioepis Co., Ltd.",
+    "Record_Type": 483,
+    "Publish_Date": "05/23/2025",
+    "Download": "https://www.fda.gov/media/186643/download",
+    "Record_ID": 285386
+  },
+  {
+    "Record_Date": "04/10/2025",
+    "FEI_Number": 3014028588,
+    "Legal_Name": "Aurolife Pharma LLC",
+    "Record_Type": 483,
+    "Publish_Date": "05/23/2025",
+    "Download": "https://www.fda.gov/media/186635/download",
+    "Record_ID": 285389
+  },
+  {
+    "Record_Date": "01/06/2025",
+    "FEI_Number": 3015786877,
+    "Legal_Name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+    "Record_Type": 483,
+    "Publish_Date": "05/23/2025",
+    "Download": "https://www.fda.gov/media/186633/download",
+    "Record_ID": 285390
+  },
+  {
+    "Record_Date": "03/04/2025",
+    "FEI_Number": 3013931875,
+    "Legal_Name": "QuVa Pharma, Inc.",
+    "Record_Type": 483,
+    "Publish_Date": "05/07/2025",
+    "Download": "https://www.fda.gov/media/186263/download",
+    "Record_ID": 285394
+  },
+  {
+    "Record_Date": "03/28/2025",
+    "FEI_Number": 3016710931,
+    "Legal_Name": "Wells Pharma of Houston LLC",
+    "Record_Type": 483,
+    "Publish_Date": "05/07/2025",
+    "Download": "https://www.fda.gov/media/186290/download",
+    "Record_ID": 285392
+  },
+  {
+    "Record_Date": "04/04/2025",
+    "FEI_Number": 3017374013,
+    "Legal_Name": "PQ Pharmacy LLC",
+    "Record_Type": 483,
+    "Publish_Date": "05/07/2025",
+    "Download": "https://www.fda.gov/media/186269/download",
+    "Record_ID": 285393
+  },
+  {
+    "Record_Date": "04/03/2025",
+    "FEI_Number": 3033176989,
+    "Legal_Name": "Thrive Health and Wellness LLC",
+    "Record_Type": 483,
+    "Publish_Date": "05/07/2025",
+    "Download": "https://www.fda.gov/media/186260/download",
+    "Record_ID": 285395
+  },
+  {
+    "Record_Date": "02/27/2025",
+    "FEI_Number": 3011688532,
+    "Legal_Name": "Eagle Pharma Outsourcing LLC",
+    "Record_Type": 483,
+    "Publish_Date": "03/28/2025",
+    "Download": "https://www.fda.gov/media/185964/download",
+    "Record_ID": 285400
+  },
+  {
+    "Record_Date": "03/06/2025",
+    "FEI_Number": 3012384835,
+    "Legal_Name": "SKNV",
+    "Record_Type": 483,
+    "Publish_Date": "03/28/2025",
+    "Download": "https://www.fda.gov/media/186005/download",
+    "Record_ID": 285399
+  },
+  {
+    "Record_Date": "02/28/2025",
+    "FEI_Number": 3016492204,
+    "Legal_Name": "Palmetto Isotopes LLC",
+    "Record_Type": 483,
+    "Publish_Date": "03/28/2025",
+    "Download": "https://www.fda.gov/media/186006/download",
+    "Record_ID": 285398
+  },
+  {
+    "Record_Date": "02/07/2025",
+    "FEI_Number": 3016710945,
+    "Legal_Name": "Revive Rx LLC dba Revive Rx Pharmacy",
+    "Record_Type": 483,
+    "Publish_Date": "03/28/2025",
+    "Download": "https://www.fda.gov/media/185963/download",
+    "Record_ID": 285401
+  },
+  {
+    "Record_Date": "06/07/2024",
+    "FEI_Number": 3002617771,
+    "Legal_Name": "AstraZeneca Pharmaceuticals LP",
+    "Record_Type": 483,
+    "Publish_Date": "03/06/2025",
+    "Download": "https://www.fda.gov/media/185506/download",
+    "Record_ID": 285408
+  },
+  {
+    "Record_Date": "11/20/2024",
+    "FEI_Number": 3003885745,
+    "Legal_Name": "Zhejiang Huahai Pharmaceutical",
+    "Record_Type": 483,
+    "Publish_Date": "03/06/2025",
+    "Download": "https://www.fda.gov/media/185507/download",
+    "Record_ID": 285409
+  },
+  {
+    "Record_Date": "07/26/2024",
+    "FEI_Number": 3005124189,
+    "Legal_Name": "Indoco Remedies Limited",
+    "Record_Type": 483,
+    "Publish_Date": "03/06/2025",
+    "Download": "https://www.fda.gov/media/185524/download",
+    "Record_ID": 285417
+  },
+  {
+    "Record_Date": "02/14/2025",
+    "FEI_Number": 3008565058,
+    "Legal_Name": "Glenmark Pharmaceuticals Limited",
+    "Record_Type": 483,
+    "Publish_Date": "03/06/2025",
+    "Download": "https://www.fda.gov/media/185699/download",
+    "Record_ID": 285424
+  },
+  {
+    "Record_Date": "02/17/2025",
+    "FEI_Number": 3008763768,
+    "Legal_Name": "Piramal Pharma Limited",
+    "Record_Type": 483,
+    "Publish_Date": "03/06/2025",
+    "Download": "https://www.fda.gov/media/185578/download",
+    "Record_ID": 285423
+  },
+  {
+    "Record_Date": "11/19/2024",
+    "FEI_Number": 3012637764,
+    "Legal_Name": "Janssen Vaccines Corporation",
+    "Record_Type": 483,
+    "Publish_Date": "03/06/2025",
+    "Download": "https://www.fda.gov/media/185510/download",
+    "Record_ID": 285410
+  },
+  {
+    "Record_Date": "02/21/2025",
+    "FEI_Number": 3015156709,
+    "Legal_Name": "BPI Labs LLC",
+    "Record_Type": 483,
+    "Publish_Date": "02/28/2025",
+    "Download": "https://www.fda.gov/media/185637/download",
+    "Record_ID": 285427
+  },
+  {
+    "Record_Date": "01/24/2025",
+    "FEI_Number": 3015826782,
+    "Legal_Name": "Carolina Infusion",
+    "Record_Type": 483,
+    "Publish_Date": "02/28/2025",
+    "Download": "https://www.fda.gov/media/185650/download",
+    "Record_ID": 285426
+  },
+  {
+    "Record_Date": "11/15/2024",
+    "FEI_Number": 3008563008,
+    "Legal_Name": "Exela Pharma Sciences LLC",
+    "Record_Type": 483,
+    "Publish_Date": "02/14/2025",
+    "Download": "https://www.fda.gov/media/185443/download",
+    "Record_ID": 285432
+  },
+  {
+    "Record_Date": "10/22/2024",
+    "FEI_Number": 1000076625,
+    "Legal_Name": "Boothwyn Pharmacy LLC",
+    "Record_Type": 483,
+    "Publish_Date": "02/12/2025",
+    "Download": "https://www.fda.gov/media/185420/download",
+    "Record_ID": 285434
+  },
+  {
+    "Record_Date": "09/30/2024",
+    "FEI_Number": 3010943533,
+    "Legal_Name": "Pine Pharmaceuticals, LLC",
+    "Record_Type": 483,
+    "Publish_Date": "02/12/2025",
+    "Download": "https://www.fda.gov/media/185430/download",
+    "Record_ID": 285433
+  },
+  {
+    "Record_Date": "09/27/2024",
+    "FEI_Number": 301406135,
+    "Legal_Name": "OurPharma LLC",
+    "Record_Type": 483,
+    "Publish_Date": "02/07/2025",
+    "Download": "https://www.fda.gov/media/185237/download",
+    "Record_ID": 285441
+  },
+  {
+    "Record_Date": "11/22/2024",
+    "FEI_Number": 3010039017,
+    "Legal_Name": "Advanced Nutriceuticals LLC",
+    "Record_Type": 483,
+    "Publish_Date": "02/07/2025",
+    "Download": "https://www.fda.gov/media/185235/download",
+    "Record_ID": 285439
+  },
+  {
+    "Record_Date": "11/08/2024",
+    "FEI_Number": 3010348724,
+    "Legal_Name": "F.H. Investments Inc.",
+    "Record_Type": 483,
+    "Publish_Date": "02/07/2025",
+    "Download": "https://www.fda.gov/media/185398/download",
+    "Record_ID": 285438
+  },
+  {
+    "Record_Date": "09/23/2024",
+    "FEI_Number": 3011152407,
+    "Legal_Name": "AnazaoHealth Corporation",
+    "Record_Type": 483,
+    "Publish_Date": "02/07/2025",
+    "Download": "https://www.fda.gov/media/185396/download",
+    "Record_ID": 285437
+  },
+  {
+    "Record_Date": "12/18/2024",
+    "FEI_Number": 3013236711,
+    "Legal_Name": "Overton Brooks VA Medical Center",
+    "Record_Type": 483,
+    "Publish_Date": "02/07/2025",
+    "Download": "https://www.fda.gov/media/185236/download",
+    "Record_ID": 285440
+  },
+  {
+    "Record_Date": "10/04/2024",
+    "FEI_Number": 3021758709,
+    "Legal_Name": "Empower Clinic Services, LLC",
+    "Record_Type": 483,
+    "Publish_Date": "02/07/2025",
+    "Download": "https://www.fda.gov/media/185397/download",
+    "Record_ID": 285436
+  },
+  {
+    "Record_Date": "01/24/2025",
+    "FEI_Number": 3027507354,
+    "Legal_Name": "Turbare Manufacturing",
+    "Record_Type": 483,
+    "Publish_Date": "02/07/2025",
+    "Download": "https://www.fda.gov/media/185399/download",
+    "Record_ID": 285435
+  },
+  {
+    "Record_Date": "12/20/2024",
+    "FEI_Number": 3013736415,
+    "Legal_Name": "SCA Pharmaceuticals, LLC",
+    "Record_Type": 483,
+    "Publish_Date": "01/21/2025",
+    "Download": "https://www.fda.gov/media/185240/download",
+    "Record_ID": 285442
+  },
+  {
+    "Record_Date": "10/28/2024",
+    "FEI_Number": 3012053582,
+    "Legal_Name": "QuVa Pharma, Inc.",
+    "Record_Type": 483,
+    "Publish_Date": "01/16/2025",
+    "Download": "https://www.fda.gov/media/185187/download",
+    "Record_ID": 285443
+  },
+  {
+    "Record_Date": "11/12/2024",
+    "FEI_Number": 1783599,
+    "Legal_Name": "Taylor Farms Colorado, Inc.",
+    "Record_Type": 483,
+    "Publish_Date": "01/14/2025",
+    "Download": "https://www.fda.gov/media/185084/download",
+    "Record_ID": 285445
+  },
+  {
+    "Record_Date": "06/26/2024",
+    "FEI_Number": 3010453141,
+    "Legal_Name": "Mylan Laboratories Limited",
+    "Record_Type": 483,
+    "Publish_Date": "01/03/2025",
+    "Download": "https://www.fda.gov/media/184861/download",
+    "Record_ID": 285448
+  },
+  {
+    "Record_Date": "09/27/2024",
+    "FEI_Number": 3011967886,
+    "Legal_Name": "RC Outsourcing, LLC",
+    "Record_Type": 483,
+    "Publish_Date": "12/12/2024",
+    "Download": "https://www.fda.gov/media/184381/download",
+    "Record_ID": 285450
+  },
+  {
+    "Record_Date": "10/10/2024",
+    "FEI_Number": 3022483154,
+    "Legal_Name": "TAILSTORM HEALTH INC",
+    "Record_Type": 483,
+    "Publish_Date": "12/10/2024",
+    "Download": "https://www.fda.gov/media/184179/download",
+    "Record_ID": 285451
+  },
+  {
+    "Record_Date": "10/25/2024",
+    "FEI_Number": 3014549846,
+    "Legal_Name": "OSRX Inc.",
+    "Record_Type": 483,
+    "Publish_Date": "11/21/2024",
+    "Download": "https://www.fda.gov/media/183626/download",
+    "Record_ID": 285456
+  },
+  {
+    "Record_Date": "07/02/2024",
+    "FEI_Number": 3010680515,
+    "Legal_Name": "US Specialty Formulations LLC",
+    "Record_Type": 483,
+    "Publish_Date": "11/12/2024",
+    "Download": "https://www.fda.gov/media/183426/download",
+    "Record_ID": 285459
+  },
+  {
+    "Record_Date": "03/01/2024",
+    "FEI_Number": 3014483112,
+    "Legal_Name": "IntegraDose Compounding Services LLC",
+    "Record_Type": 483,
+    "Publish_Date": "11/12/2024",
+    "Download": "https://www.fda.gov/media/183428/download",
+    "Record_ID": 285460
+  },
+  {
+    "Record_Date": "10/04/2024",
+    "FEI_Number": 3010810839,
+    "Legal_Name": "Avenue Pharmacy Inc dba Pathway Pharmacy",
+    "Record_Type": 483,
+    "Publish_Date": "11/06/2024",
+    "Download": "https://www.fda.gov/media/183393/download",
+    "Record_ID": 285461
+  },
+  {
+    "Record_Date": "09/18/2024",
+    "FEI_Number": 3017473850,
+    "Legal_Name": "Staska Pharmaceuticals Inc",
+    "Record_Type": 483,
+    "Publish_Date": "11/05/2024",
+    "Download": "https://www.fda.gov/media/183268/download",
+    "Record_ID": 285462
+  },
+  {
+    "Record_Date": "09/20/2024",
+    "FEI_Number": 3006418686,
+    "Legal_Name": "Aarti Drugs Limited",
+    "Record_Type": 483,
+    "Publish_Date": "11/01/2024",
+    "Download": "https://www.fda.gov/media/183269/download",
+    "Record_ID": 285463
+  },
+  {
+    "Record_Date": "09/25/2024",
+    "FEI_Number": 3011158388,
+    "Legal_Name": "Nephron Sterile Compounding Center LLC",
+    "Record_Type": 483,
+    "Publish_Date": "10/31/2024",
+    "Download": "https://www.fda.gov/media/183238/download",
+    "Record_ID": 285465
+  },
+  {
+    "Record_Date": "09/06/2024",
+    "FEI_Number": 3024611767,
+    "Legal_Name": "Mark Cuban Cost Plus",
+    "Record_Type": 483,
+    "Publish_Date": "10/31/2024",
+    "Download": "https://www.fda.gov/media/183227/download",
+    "Record_ID": 285464
+  },
+  {
+    "Record_Date": "03/25/2024",
+    "FEI_Number": 3002807751,
+    "Legal_Name": "Novo Nordisk A/S",
+    "Record_Type": 483,
+    "Publish_Date": "10/29/2024",
+    "Download": "https://www.fda.gov/media/183181/download",
+    "Record_ID": 285467
+  },
+  {
+    "Record_Date": "08/28/2024",
+    "FEI_Number": 3011887629,
+    "Legal_Name": "Empower Pharmacy",
+    "Record_Type": 483,
+    "Publish_Date": "10/11/2024",
+    "Download": "https://www.fda.gov/media/182593/download",
+    "Record_ID": 285468
+  },
+  {
+    "Record_Date": "09/27/2024",
+    "FEI_Number": 3004086884,
+    "Legal_Name": "Apitoria Pharma Private Limited",
+    "Record_Type": 483,
+    "Publish_Date": "10/07/2024",
+    "Download": "https://www.fda.gov/media/182545/download",
+    "Record_ID": 285472
+  },
+  {
+    "Record_Date": "09/27/2024",
+    "FEI_Number": 3011248248,
+    "Legal_Name": "Biocon Sdn Bhd",
+    "Record_Type": 483,
+    "Publish_Date": "10/07/2024",
+    "Download": "https://www.fda.gov/media/182539/download",
+    "Record_ID": 285471
+  },
+  {
+    "Record_Date": "03/19/2024",
+    "FEI_Number": 3011286349,
+    "Legal_Name": "Qualgen, LLC",
+    "Record_Type": 483,
+    "Publish_Date": "10/07/2024",
+    "Download": "https://www.fda.gov/media/182460/download",
+    "Record_ID": 285473
+  },
+  {
+    "Record_Date": "07/03/2024",
+    "FEI_Number": 3011976853,
+    "Legal_Name": "BSO LLC",
+    "Record_Type": 483,
+    "Publish_Date": "10/02/2024",
+    "Download": "https://www.fda.gov/media/182398/download",
+    "Record_ID": 285475
+  },
+  {
+    "Record_Date": "09/06/2024",
+    "FEI_Number": 3020928491,
+    "Legal_Name": "Annovex Pharma, Inc",
+    "Record_Type": 483,
+    "Publish_Date": "10/02/2024",
+    "Download": "https://www.fda.gov/media/182397/download",
+    "Record_ID": 285474
+  },
+  {
+    "Record_Date": "06/28/2024",
+    "FEI_Number": 3012104093,
+    "Legal_Name": "Fagron Compounding Services",
+    "Record_Type": 483,
+    "Publish_Date": "09/26/2024",
+    "Download": "https://www.fda.gov/media/182250/download",
+    "Record_ID": 285477
+  },
+  {
+    "Record_Date": "08/02/2024",
+    "FEI_Number": 3022250654,
+    "Legal_Name": "ProRx LLC",
+    "Record_Type": 483,
+    "Publish_Date": "09/26/2024",
+    "Download": "https://www.fda.gov/media/182243/download",
+    "Record_ID": 285476
+  },
+  {
+    "Record_Date": "08/02/2024",
+    "FEI_Number": 3008790859,
+    "Legal_Name": "Mixlab TX LLC",
+    "Record_Type": 483,
+    "Publish_Date": "09/19/2024",
+    "Download": "https://www.fda.gov/media/181933/download",
+    "Record_ID": 285485
+  },
+  {
+    "Record_Date": "08/16/2024",
+    "FEI_Number": 1000526113,
+    "Legal_Name": "Belcher Pharmaceuticals LLC",
+    "Record_Type": 483,
+    "Publish_Date": "09/17/2024",
+    "Download": "https://www.fda.gov/media/181910/download",
+    "Record_ID": 285489
+  },
+  {
+    "Record_Date": "09/06/2024",
+    "FEI_Number": 3004097901,
+    "Legal_Name": "Granules India Limited",
+    "Record_Type": 483,
+    "Publish_Date": "09/17/2024",
+    "Download": "https://www.fda.gov/media/181914/download",
+    "Record_ID": 285488
+  },
+  {
+    "Record_Date": "08/02/2024",
+    "FEI_Number": 3009864167,
+    "Legal_Name": "Gland Pharma Limited",
+    "Record_Type": 483,
+    "Publish_Date": "09/17/2024",
+    "Download": "https://www.fda.gov/media/181913/download",
+    "Record_ID": 285487
+  },
+  {
+    "Record_Date": "09/08/2024",
+    "FEI_Number": 1972829,
+    "Legal_Name": "Park Avenue Compounding",
+    "Record_Type": 483,
+    "Publish_Date": "09/16/2024",
+    "Download": "https://www.fda.gov/media/181823/download",
+    "Record_ID": 285490
+  },
+  {
+    "Record_Date": "04/12/2024",
+    "FEI_Number": 3003282619,
+    "Legal_Name": "Taenaka Kogyo Co., Ltd.",
+    "Record_Type": 483,
+    "Publish_Date": "09/06/2024",
+    "Download": "https://www.fda.gov/media/181559/download",
+    "Record_ID": 285491
+  },
+  {
+    "Record_Date": "07/26/2024",
+    "FEI_Number": 3003981475,
+    "Legal_Name": "Biocon Biologics Limited",
+    "Record_Type": 483,
+    "Publish_Date": "09/06/2024",
+    "Download": "https://www.fda.gov/media/181554/download",
+    "Record_ID": 285492
+  },
+  {
+    "Record_Date": "03/22/2024",
+    "FEI_Number": 3002807834,
+    "Legal_Name": "Second Tokushima Factory, Otsuka Pharmaceutical Co., Ltd.",
+    "Record_Type": 483,
+    "Publish_Date": "08/30/2024",
+    "Download": "https://www.fda.gov/media/181425/download",
+    "Record_ID": 285493
+  },
+  {
+    "Record_Date": "08/02/2024",
+    "FEI_Number": 3004094136,
+    "Legal_Name": "Global Calcium Pvt. Limited",
+    "Record_Type": 483,
+    "Publish_Date": "08/28/2024",
+    "Download": "https://www.fda.gov/media/181387/download",
+    "Record_ID": 285494
+  },
+  {
+    "Record_Date": "07/31/2024",
+    "FEI_Number": 3021769057,
+    "Legal_Name": "iRhythm Technologies, Inc.",
+    "Record_Type": 483,
+    "Publish_Date": "08/23/2024",
+    "Download": "https://www.fda.gov/media/181269/download",
+    "Record_ID": 285495
+  },
+  {
+    "Record_Date": "07/31/2024",
+    "FEI_Number": 3007208829,
+    "Legal_Name": "iRhythm Technologies Inc",
+    "Record_Type": 483,
+    "Publish_Date": "08/16/2024",
+    "Download": "https://www.fda.gov/media/180888/download",
+    "Record_ID": 285496
+  },
+  {
+    "Record_Date": "07/26/2024",
+    "FEI_Number": 3010166491,
+    "Legal_Name": "Nubratori, Inc",
+    "Record_Type": 483,
+    "Publish_Date": "08/08/2024",
+    "Download": "https://www.fda.gov/media/180707/download",
+    "Record_ID": 285498
+  },
+  {
+    "Record_Date": "05/23/2024",
+    "FEI_Number": 3012384835,
+    "Legal_Name": "SKNV",
+    "Record_Type": 483,
+    "Publish_Date": "08/08/2024",
+    "Download": "https://www.fda.gov/media/180708/download",
+    "Record_ID": 285497
+  },
+  {
+    "Record_Date": "05/29/2024",
+    "FEI_Number": 3009724085,
+    "Legal_Name": "Olympia Pharmaceuticals",
+    "Record_Type": 483,
+    "Publish_Date": "08/06/2024",
+    "Download": "https://www.fda.gov/media/180579/download",
+    "Record_ID": 285499
+  },
+  {
+    "Record_Date": "04/03/2024",
+    "FEI_Number": 3013024146,
+    "Legal_Name": "Imprimis NJOF, LLC",
+    "Record_Type": 483,
+    "Publish_Date": "08/06/2024",
+    "Download": "https://www.fda.gov/media/180618/download",
+    "Record_ID": 285500
+  },
+  {
+    "Record_Date": "05/02/2024",
+    "FEI_Number": 1924965,
+    "Legal_Name": "Nestle Purina Pet Care Co.",
+    "Record_Type": 483,
+    "Publish_Date": "07/31/2024",
+    "Download": "https://www.fda.gov/media/180461/download",
+    "Record_ID": 285501
+  },
+  {
+    "Record_Date": "06/21/2024",
+    "FEI_Number": 3010589333,
+    "Legal_Name": "Right Value Drug Stores LLC",
+    "Record_Type": 483,
+    "Publish_Date": "07/26/2024",
+    "Download": "https://www.fda.gov/media/180071/download",
+    "Record_ID": 285502
+  },
+  {
+    "Record_Date": "02/13/2024",
+    "FEI_Number": 3012124170,
+    "Legal_Name": "Ranier's Compounding Laboratory",
+    "Record_Type": 483,
+    "Publish_Date": "07/26/2024",
+    "Download": "https://www.fda.gov/media/180074/download",
+    "Record_ID": 285503
+  },
+  {
+    "Record_Date": "06/25/2024",
+    "FEI_Number": 3022897129,
+    "Legal_Name": "Hikma Injectables USA Inc",
+    "Record_Type": 483,
+    "Publish_Date": "07/26/2024",
+    "Download": "https://www.fda.gov/media/180065/download",
+    "Record_ID": 285504
+  },
+  {
+    "Record_Date": "01/19/2024",
+    "FEI_Number": 3014129013,
+    "Legal_Name": "Brassica Pharma Private Ltd",
+    "Record_Type": 483,
+    "Publish_Date": "07/25/2024",
+    "Download": "https://www.fda.gov/media/180327/download",
+    "Record_ID": 285505
+  },
+  {
+    "Record_Date": "06/14/2024",
+    "FEI_Number": 3022125340,
+    "Legal_Name": "Biocon Biosphere Limited",
+    "Record_Type": 483,
+    "Publish_Date": "07/16/2024",
+    "Download": "https://www.fda.gov/media/180112/download",
+    "Record_ID": 285506
+  },
+  {
+    "Record_Date": "04/05/2024",
+    "FEI_Number": 3013438582,
+    "Legal_Name": "Denver Solutions, LLC DBA Leiters Health",
+    "Record_Type": 483,
+    "Publish_Date": "07/12/2024",
+    "Download": "https://www.fda.gov/media/180028/download",
+    "Record_ID": 285510
+  },
+  {
+    "Record_Date": "06/12/2024",
+    "FEI_Number": 2220525,
+    "Legal_Name": "Hikma Pharmaceuticals USA Inc.",
+    "Record_Type": 483,
+    "Publish_Date": "07/09/2024",
+    "Download": "https://www.fda.gov/media/179799/download",
+    "Record_ID": 285512
+  },
+  {
+    "Record_Date": "05/10/2024",
+    "FEI_Number": 3011430551,
+    "Legal_Name": "Brookfield Medical/Surgical Supplies, Inc.",
+    "Record_Type": 483,
+    "Publish_Date": "06/28/2024",
+    "Download": "https://www.fda.gov/media/179540/download",
+    "Record_ID": 285513
+  },
+  {
+    "Record_Date": "06/21/2024",
+    "FEI_Number": 3004081307,
+    "Legal_Name": "Cipla Limited",
+    "Record_Type": 483,
+    "Publish_Date": "06/26/2024",
+    "Download": "https://www.fda.gov/media/179606/download",
+    "Record_ID": 285514
+  },
+  {
+    "Record_Date": "06/12/2024",
+    "FEI_Number": 3005029956,
+    "Legal_Name": "Torrent Pharmaceuticals Limited",
+    "Record_Type": 483,
+    "Publish_Date": "06/26/2024",
+    "Download": "https://www.fda.gov/media/179610/download",
+    "Record_ID": 285515
+  },
+  {
+    "Record_Date": "06/07/2024",
+    "FEI_Number": 3002949085,
+    "Legal_Name": "Dr. Reddy's Laboratories Limited CTO VI",
+    "Record_Type": 483,
+    "Publish_Date": "06/20/2024",
+    "Download": "https://www.fda.gov/media/179455/download",
+    "Record_ID": 285516
+  },
+  {
+    "Record_Date": "04/02/2024",
+    "FEI_Number": 3006942691,
+    "Legal_Name": "Chugai Pharma Manufacturing Co. Ltd.",
+    "Record_Type": 483,
+    "Publish_Date": "06/14/2024",
+    "Download": "https://www.fda.gov/media/179391/download",
+    "Record_ID": 285517
+  },
+  {
+    "Record_Date": "03/13/2024",
+    "FEI_Number": 3009339218,
+    "Legal_Name": "Jubilant DraxImage Radiopharmacies Inc. dba Jubilant Radiopharma",
+    "Record_Type": 483,
+    "Publish_Date": "06/13/2024",
+    "Download": "https://www.fda.gov/media/178630/download",
+    "Record_ID": 285518
+  },
+  {
+    "Record_Date": "05/08/2024",
+    "FEI_Number": 3002806702,
+    "Legal_Name": "Cipla, Ltd.",
+    "Record_Type": 483,
+    "Publish_Date": "06/07/2024",
+    "Download": "https://www.fda.gov/media/179231/download",
+    "Record_ID": 285519
+  },
+  {
+    "Record_Date": "01/16/2024",
+    "FEI_Number": 3007373503,
+    "Legal_Name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd. (Huanghe Road Site)",
+    "Record_Type": 483,
+    "Publish_Date": "06/04/2024",
+    "Download": "https://www.fda.gov/media/179134/download",
+    "Record_ID": 285520
+  },
+  {
+    "Record_Date": "04/12/2024",
+    "FEI_Number": 3004034796,
+    "Legal_Name": "Delta Pharma, Inc.",
+    "Record_Type": 483,
+    "Publish_Date": "05/21/2024",
+    "Download": "https://www.fda.gov/media/178599/download",
+    "Record_ID": 285521
+  },
+  {
+    "Record_Date": "05/03/2024",
+    "FEI_Number": 3009883410,
+    "Legal_Name": "EUGIA Pharma Specialities Limited",
+    "Record_Type": 483,
+    "Publish_Date": "05/13/2024",
+    "Download": "https://www.fda.gov/media/178585/download",
+    "Record_ID": 285522
+  },
+  {
+    "Record_Date": "04/23/2024",
+    "FEI_Number": 3013712903,
+    "Legal_Name": "Zydus Lifesciences Limited",
+    "Record_Type": 483,
+    "Publish_Date": "04/29/2024",
+    "Download": "https://www.fda.gov/media/178169/download",
+    "Record_ID": 285523
+  },
+  {
+    "Record_Date": "04/05/2024",
+    "FEI_Number": 3027357163,
+    "Legal_Name": "Eugia Steriles Private Limited",
+    "Record_Type": 483,
+    "Publish_Date": "04/16/2024",
+    "Download": "https://www.fda.gov/media/177845/download",
+    "Record_ID": 285525
+  },
+  {
+    "Record_Date": "03/27/2024",
+    "FEI_Number": 3007621329,
+    "Legal_Name": "Zydus Lifesciences Limited",
+    "Record_Type": 483,
+    "Publish_Date": "04/12/2024",
+    "Download": "https://www.fda.gov/media/177746/download",
+    "Record_ID": 285526
+  },
+  {
+    "Record_Date": "04/04/2024",
+    "FEI_Number": 3002806710,
+    "Legal_Name": "Cipla Limited",
+    "Record_Type": 483,
+    "Publish_Date": "04/10/2024",
+    "Download": "https://www.fda.gov/media/177653/download",
+    "Record_ID": 285527
+  },
+  {
+    "Record_Date": "03/27/2024",
+    "FEI_Number": 3006370533,
+    "Legal_Name": "Alkem Laboratories Limited",
+    "Record_Type": 483,
+    "Publish_Date": "04/09/2024",
+    "Download": "https://www.fda.gov/media/177580/download",
+    "Record_ID": 285528
+  },
+  {
+    "Record_Date": "02/02/2024",
+    "FEI_Number": 3006895982,
+    "Legal_Name": "Jubilant Generics Limited",
+    "Record_Type": 483,
+    "Publish_Date": "04/05/2024",
+    "Download": "https://www.fda.gov/media/177529/download",
+    "Record_ID": 285529
+  },
+  {
+    "Record_Date": "02/29/2024",
+    "FEI_Number": 3011905047,
+    "Legal_Name": "Eugia SEZ Private Limited",
+    "Record_Type": 483,
+    "Publish_Date": "03/15/2024",
+    "Download": "https://www.fda.gov/media/177078/download",
+    "Record_ID": 285536
+  },
+  {
+    "Record_Date": "02/02/2024",
+    "FEI_Number": 3008461619,
+    "Legal_Name": "Eugia Pharma Specialities Limited",
+    "Record_Type": 483,
+    "Publish_Date": "02/13/2024",
+    "Download": "https://www.fda.gov/media/176315/download",
+    "Record_ID": 285538
+  },
+  {
+    "Record_Date": "01/19/2024",
+    "FEI_Number": 3013702557,
+    "Legal_Name": "Alvotech HF",
+    "Record_Type": 483,
+    "Publish_Date": "01/31/2024",
+    "Download": "https://www.fda.gov/media/175832/download",
+    "Record_ID": 285543
+  }
+]

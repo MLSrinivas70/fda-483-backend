@@ -1,0 +1,492 @@
+[
+  {
+    "company": "East Orange VA Medical Center",
+    "error": "File not found in uploads directory",
+    "expectedFile": "East_Orange_VA_Medical_Center_04-29-2025_3011110195.pdf"
+  },
+  {
+    "company": "Apothecary Pharma LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Apothecary_Pharma_LLC_05-15-2025_3032314463.pdf"
+  },
+  {
+    "company": "Sanofi-Aventis Deutschland GmbH",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Sanofi_Aventis_Deutschland_GmbH_01-16-2025_3003195501.pdf"
+  },
+  {
+    "company": "Zhejiang Huahai Pharmaceutical Co., Ltd.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Zhejiang_Huahai_Pharmaceutical_Co___Ltd__04-16-2025_3003999190.pdf"
+  },
+  {
+    "company": "Samsung Bioepis Co., Ltd.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Samsung_Bioepis_Co___Ltd__11-22-2024_3010031951.pdf"
+  },
+  {
+    "company": "Aurolife Pharma LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Aurolife_Pharma_LLC_04-10-2025_3014028588.pdf"
+  },
+  {
+    "company": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Suzhou_Suncadia_Biopharmaceuticals_Co___Ltd__01-06-2025_3015786877.pdf"
+  },
+  {
+    "company": "QuVa Pharma, Inc.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "QuVa_Pharma__Inc__03-04-2025_3013931875.pdf"
+  },
+  {
+    "company": "Wells Pharma of Houston LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Wells_Pharma_of_Houston_LLC_03-28-2025_3016710931.pdf"
+  },
+  {
+    "company": "PQ Pharmacy LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "PQ_Pharmacy_LLC_04-04-2025_3017374013.pdf"
+  },
+  {
+    "company": "Thrive Health and Wellness LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Thrive_Health_and_Wellness_LLC_04-03-2025_3033176989.pdf"
+  },
+  {
+    "company": "Eagle Pharma Outsourcing LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Eagle_Pharma_Outsourcing_LLC_02-27-2025_3011688532.pdf"
+  },
+  {
+    "company": "SKNV",
+    "error": "File not found in uploads directory",
+    "expectedFile": "SKNV_03-06-2025_3012384835.pdf"
+  },
+  {
+    "company": "Palmetto Isotopes LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Palmetto_Isotopes_LLC_02-28-2025_3016492204.pdf"
+  },
+  {
+    "company": "Revive Rx LLC dba Revive Rx Pharmacy",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Revive_Rx_LLC_dba_Revive_Rx_Pharmacy_02-07-2025_3016710945.pdf"
+  },
+  {
+    "company": "AstraZeneca Pharmaceuticals LP",
+    "error": "File not found in uploads directory",
+    "expectedFile": "AstraZeneca_Pharmaceuticals_LP_06-07-2024_3002617771.pdf"
+  },
+  {
+    "company": "Zhejiang Huahai Pharmaceutical",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Zhejiang_Huahai_Pharmaceutical_11-20-2024_3003885745.pdf"
+  },
+  {
+    "company": "Indoco Remedies Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Indoco_Remedies_Limited_07-26-2024_3005124189.pdf"
+  },
+  {
+    "company": "Glenmark Pharmaceuticals Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Glenmark_Pharmaceuticals_Limited_02-14-2025_3008565058.pdf"
+  },
+  {
+    "company": "Piramal Pharma Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Piramal_Pharma_Limited_02-17-2025_3008763768.pdf"
+  },
+  {
+    "company": "Janssen Vaccines Corporation",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Janssen_Vaccines_Corporation_11-19-2024_3012637764.pdf"
+  },
+  {
+    "company": "BPI Labs LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "BPI_Labs_LLC_02-21-2025_3015156709.pdf"
+  },
+  {
+    "company": "Carolina Infusion",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Carolina_Infusion_01-24-2025_3015826782.pdf"
+  },
+  {
+    "company": "Exela Pharma Sciences LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Exela_Pharma_Sciences_LLC_11-15-2024_3008563008.pdf"
+  },
+  {
+    "company": "Boothwyn Pharmacy LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Boothwyn_Pharmacy_LLC_10-22-2024_1000076625.pdf"
+  },
+  {
+    "company": "Pine Pharmaceuticals, LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Pine_Pharmaceuticals__LLC_09-30-2024_3010943533.pdf"
+  },
+  {
+    "company": "OurPharma LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "OurPharma_LLC_09-27-2024_301406135.pdf"
+  },
+  {
+    "company": "Advanced Nutriceuticals LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Advanced_Nutriceuticals_LLC_11-22-2024_3010039017.pdf"
+  },
+  {
+    "company": "F.H. Investments Inc.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "F_H__Investments_Inc__11-08-2024_3010348724.pdf"
+  },
+  {
+    "company": "AnazaoHealth Corporation",
+    "error": "File not found in uploads directory",
+    "expectedFile": "AnazaoHealth_Corporation_09-23-2024_3011152407.pdf"
+  },
+  {
+    "company": "Overton Brooks VA Medical Center",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Overton_Brooks_VA_Medical_Center_12-18-2024_3013236711.pdf"
+  },
+  {
+    "company": "Empower Clinic Services, LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Empower_Clinic_Services__LLC_10-04-2024_3021758709.pdf"
+  },
+  {
+    "company": "Turbare Manufacturing",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Turbare_Manufacturing_01-24-2025_3027507354.pdf"
+  },
+  {
+    "company": "SCA Pharmaceuticals, LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "SCA_Pharmaceuticals__LLC_12-20-2024_3013736415.pdf"
+  },
+  {
+    "company": "QuVa Pharma, Inc.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "QuVa_Pharma__Inc__10-28-2024_3012053582.pdf"
+  },
+  {
+    "company": "Taylor Farms Colorado, Inc.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Taylor_Farms_Colorado__Inc__11-12-2024_1783599.pdf"
+  },
+  {
+    "company": "Mylan Laboratories Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Mylan_Laboratories_Limited_06-26-2024_3010453141.pdf"
+  },
+  {
+    "company": "RC Outsourcing, LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "RC_Outsourcing__LLC_09-27-2024_3011967886.pdf"
+  },
+  {
+    "company": "TAILSTORM HEALTH INC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "TAILSTORM_HEALTH_INC_10-10-2024_3022483154.pdf"
+  },
+  {
+    "company": "OSRX Inc.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "OSRX_Inc__10-25-2024_3014549846.pdf"
+  },
+  {
+    "company": "US Specialty Formulations LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "US_Specialty_Formulations_LLC_07-02-2024_3010680515.pdf"
+  },
+  {
+    "company": "IntegraDose Compounding Services LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "IntegraDose_Compounding_Services_LLC_03-01-2024_3014483112.pdf"
+  },
+  {
+    "company": "Avenue Pharmacy Inc dba Pathway Pharmacy",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Avenue_Pharmacy_Inc_dba_Pathway_Pharmacy_10-04-2024_3010810839.pdf"
+  },
+  {
+    "company": "Staska Pharmaceuticals Inc",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Staska_Pharmaceuticals_Inc_09-18-2024_3017473850.pdf"
+  },
+  {
+    "company": "Aarti Drugs Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Aarti_Drugs_Limited_09-20-2024_3006418686.pdf"
+  },
+  {
+    "company": "Nephron Sterile Compounding Center LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Nephron_Sterile_Compounding_Center_LLC_09-25-2024_3011158388.pdf"
+  },
+  {
+    "company": "Mark Cuban Cost Plus",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Mark_Cuban_Cost_Plus_09-06-2024_3024611767.pdf"
+  },
+  {
+    "company": "Novo Nordisk A/S",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Novo_Nordisk_A_S_03-25-2024_3002807751.pdf"
+  },
+  {
+    "company": "Empower Pharmacy",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Empower_Pharmacy_08-28-2024_3011887629.pdf"
+  },
+  {
+    "company": "Apitoria Pharma Private Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Apitoria_Pharma_Private_Limited_09-27-2024_3004086884.pdf"
+  },
+  {
+    "company": "Biocon Sdn Bhd",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Biocon_Sdn_Bhd_09-27-2024_3011248248.pdf"
+  },
+  {
+    "company": "Qualgen, LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Qualgen__LLC_03-19-2024_3011286349.pdf"
+  },
+  {
+    "company": "BSO LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "BSO_LLC_07-03-2024_3011976853.pdf"
+  },
+  {
+    "company": "Annovex Pharma, Inc",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Annovex_Pharma__Inc_09-06-2024_3020928491.pdf"
+  },
+  {
+    "company": "Fagron Compounding Services",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Fagron_Compounding_Services_06-28-2024_3012104093.pdf"
+  },
+  {
+    "company": "ProRx LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "ProRx_LLC_08-02-2024_3022250654.pdf"
+  },
+  {
+    "company": "Mixlab TX LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Mixlab_TX_LLC_08-02-2024_3008790859.pdf"
+  },
+  {
+    "company": "Belcher Pharmaceuticals LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Belcher_Pharmaceuticals_LLC_08-16-2024_1000526113.pdf"
+  },
+  {
+    "company": "Granules India Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Granules_India_Limited_09-06-2024_3004097901.pdf"
+  },
+  {
+    "company": "Gland Pharma Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Gland_Pharma_Limited_08-02-2024_3009864167.pdf"
+  },
+  {
+    "company": "Park Avenue Compounding",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Park_Avenue_Compounding_09-08-2024_1972829.pdf"
+  },
+  {
+    "company": "Taenaka Kogyo Co., Ltd.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Taenaka_Kogyo_Co___Ltd__04-12-2024_3003282619.pdf"
+  },
+  {
+    "company": "Biocon Biologics Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Biocon_Biologics_Limited_07-26-2024_3003981475.pdf"
+  },
+  {
+    "company": "Second Tokushima Factory, Otsuka Pharmaceutical Co., Ltd.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Second_Tokushima_Factory__Otsuka_Pharmaceutical_Co_03-22-2024_3002807834.pdf"
+  },
+  {
+    "company": "Global Calcium Pvt. Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Global_Calcium_Pvt__Limited_08-02-2024_3004094136.pdf"
+  },
+  {
+    "company": "iRhythm Technologies, Inc.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "iRhythm_Technologies__Inc__07-31-2024_3021769057.pdf"
+  },
+  {
+    "company": "iRhythm Technologies Inc",
+    "error": "File not found in uploads directory",
+    "expectedFile": "iRhythm_Technologies_Inc_07-31-2024_3007208829.pdf"
+  },
+  {
+    "company": "Nubratori, Inc",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Nubratori__Inc_07-26-2024_3010166491.pdf"
+  },
+  {
+    "company": "SKNV",
+    "error": "File not found in uploads directory",
+    "expectedFile": "SKNV_05-23-2024_3012384835.pdf"
+  },
+  {
+    "company": "Olympia Pharmaceuticals",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Olympia_Pharmaceuticals_05-29-2024_3009724085.pdf"
+  },
+  {
+    "company": "Imprimis NJOF, LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Imprimis_NJOF__LLC_04-03-2024_3013024146.pdf"
+  },
+  {
+    "company": "Nestle Purina Pet Care Co.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Nestle_Purina_Pet_Care_Co__05-02-2024_1924965.pdf"
+  },
+  {
+    "company": "Right Value Drug Stores LLC",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Right_Value_Drug_Stores_LLC_06-21-2024_3010589333.pdf"
+  },
+  {
+    "company": "Ranier's Compounding Laboratory",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Ranier_s_Compounding_Laboratory_02-13-2024_3012124170.pdf"
+  },
+  {
+    "company": "Hikma Injectables USA Inc",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Hikma_Injectables_USA_Inc_06-25-2024_3022897129.pdf"
+  },
+  {
+    "company": "Brassica Pharma Private Ltd",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Brassica_Pharma_Private_Ltd_01-19-2024_3014129013.pdf"
+  },
+  {
+    "company": "Biocon Biosphere Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Biocon_Biosphere_Limited_06-14-2024_3022125340.pdf"
+  },
+  {
+    "company": "Denver Solutions, LLC DBA Leiters Health",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Denver_Solutions__LLC_DBA_Leiters_Health_04-05-2024_3013438582.pdf"
+  },
+  {
+    "company": "Hikma Pharmaceuticals USA Inc.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Hikma_Pharmaceuticals_USA_Inc__06-12-2024_2220525.pdf"
+  },
+  {
+    "company": "Brookfield Medical/Surgical Supplies, Inc.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Brookfield_Medical_Surgical_Supplies__Inc__05-10-2024_3011430551.pdf"
+  },
+  {
+    "company": "Cipla Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Cipla_Limited_06-21-2024_3004081307.pdf"
+  },
+  {
+    "company": "Torrent Pharmaceuticals Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Torrent_Pharmaceuticals_Limited_06-12-2024_3005029956.pdf"
+  },
+  {
+    "company": "Dr. Reddy's Laboratories Limited CTO VI",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Dr__Reddy_s_Laboratories_Limited_CTO_VI_06-07-2024_3002949085.pdf"
+  },
+  {
+    "company": "Chugai Pharma Manufacturing Co. Ltd.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Chugai_Pharma_Manufacturing_Co__Ltd__04-02-2024_3006942691.pdf"
+  },
+  {
+    "company": "Jubilant DraxImage Radiopharmacies Inc. dba Jubilant Radiopharma",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Jubilant_DraxImage_Radiopharmacies_Inc__dba_Jubila_03-13-2024_3009339218.pdf"
+  },
+  {
+    "company": "Cipla, Ltd.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Cipla__Ltd__05-08-2024_3002806702.pdf"
+  },
+  {
+    "company": "Jiangsu Hengrui Pharmaceuticals Co., Ltd. (Huanghe Road Site)",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Jiangsu_Hengrui_Pharmaceuticals_Co___Ltd___Huanghe_01-16-2024_3007373503.pdf"
+  },
+  {
+    "company": "Delta Pharma, Inc.",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Delta_Pharma__Inc__04-12-2024_3004034796.pdf"
+  },
+  {
+    "company": "EUGIA Pharma Specialities Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "EUGIA_Pharma_Specialities_Limited_05-03-2024_3009883410.pdf"
+  },
+  {
+    "company": "Zydus Lifesciences Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Zydus_Lifesciences_Limited_04-23-2024_3013712903.pdf"
+  },
+  {
+    "company": "Eugia Steriles Private Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Eugia_Steriles_Private_Limited_04-05-2024_3027357163.pdf"
+  },
+  {
+    "company": "Zydus Lifesciences Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Zydus_Lifesciences_Limited_03-27-2024_3007621329.pdf"
+  },
+  {
+    "company": "Cipla Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Cipla_Limited_04-04-2024_3002806710.pdf"
+  },
+  {
+    "company": "Alkem Laboratories Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Alkem_Laboratories_Limited_03-27-2024_3006370533.pdf"
+  },
+  {
+    "company": "Jubilant Generics Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Jubilant_Generics_Limited_02-02-2024_3006895982.pdf"
+  },
+  {
+    "company": "Eugia SEZ Private Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Eugia_SEZ_Private_Limited_02-29-2024_3011905047.pdf"
+  },
+  {
+    "company": "Eugia Pharma Specialities Limited",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Eugia_Pharma_Specialities_Limited_02-02-2024_3008461619.pdf"
+  },
+  {
+    "company": "Alvotech HF",
+    "error": "File not found in uploads directory",
+    "expectedFile": "Alvotech_HF_01-19-2024_3013702557.pdf"
+  }
+]
