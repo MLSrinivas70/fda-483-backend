@@ -1,10 +1,8 @@
 import admin from 'firebase-admin';
-import { readFileSync } from 'fs';
 
 let adminApp;
 
 try {
-  // const serviceAccount = JSON.parse(readFileSync('./serviceAccountKey.json', 'utf8'));
 
   const serviceAccount = {
     type: process.env.FIREBASE_TYPE,
