@@ -11,13 +11,33 @@ export const askGemini = async (prompt, documents = []) => {
         // thinkingConfig: {
         //     thinkingBudget: 1000,   // Limit thinking time to 1 second
         // },
-        // Performance optimizations
+        // Aggressive performance optimizations
         generationConfig: {
-            maxOutputTokens: 2048,  // Reduce from default to speed up response
-            temperature: 0.1,        // Lower temperature for faster, more focused responses
-            topP: 0.8,              // Reduce randomness for faster processing
-            topK: 40,               // Limit token selection for speed
+            maxOutputTokens: 1000,  // Very limited output for speed
+            temperature: 0.0,        // Zero temperature for fastest responses
+            topP: 0.1,              // Very low randomness for speed
+            topK: 1,                // Minimum token selection
+            candidateCount: 1,      // Only generate one response
         },
+        // Disable safety for maximum speed
+        safetySettings: [
+            {
+                category: "HARM_CATEGORY_HARASSMENT",
+                threshold: "BLOCK_NONE"
+            },
+            {
+                category: "HARM_CATEGORY_HATE_SPEECH", 
+                threshold: "BLOCK_NONE"
+            },
+            {
+                category: "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                threshold: "BLOCK_NONE"
+            },
+            {
+                category: "HARM_CATEGORY_DANGEROUS_CONTENT",
+                threshold: "BLOCK_NONE"
+            }
+        ],
         responseMimeType: 'application/json',
         systemInstruction: [
             {
@@ -25,21 +45,29 @@ export const askGemini = async (prompt, documents = []) => {
             }
         ],
     }
-    const model = 'gemini-2.0-flash';
-    // const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
+    // Use faster model
+    const model = 'gemini-1.5-flash';
     const startTime = Date.now();
     
     try {
         console.log(`[LLM] Starting Gemini processing for ${documents.length} documents`);
         
-        // Prepare file data for Gemini
+        // Prepare file data for Gemini with size limits
         const pdfDownloadStartTime = Date.now();
         const fileDataPromises = documents.map(async (document, index) => {
             const docStartTime = Date.now();
             // Download PDF from Firebase Storage URL
             const fileBuffer = await downloadPDFFromURL(document.url);
             const docEndTime = Date.now();
-            console.log(`[LLM] PDF ${index + 1}/${documents.length} downloaded in ${docEndTime - docStartTime}ms`);
+            console.log(`[LLM] PDF ${index + 1}/${documents.length} downloaded in ${docEndTime - docStartTime}ms (size: ${(fileBuffer.length / 1024 / 1024).toFixed(2)} MB)`);
+            
+            // Check file size and limit if too large
+            const maxSize = 10 * 1024 * 1024; // 10MB limit
+            if (fileBuffer.length > maxSize) {
+                console.log(`[LLM] PDF ${index + 1} is too large (${(fileBuffer.length / 1024 / 1024).toFixed(2)} MB), truncating...`);
+                // For now, we'll skip very large files
+                return null;
+            }
             
             return {
                 inlineData: {
@@ -51,26 +79,42 @@ export const askGemini = async (prompt, documents = []) => {
         
         // Wait for all PDF downloads to complete in parallel
         const fileData = await Promise.all(fileDataPromises);
+        const validFileData = fileData.filter(file => file !== null);
+        
+        if (validFileData.length === 0) {
+            throw new Error('No valid PDF files to process (all files too large)');
+        }
+        
         const pdfDownloadEndTime = Date.now();
-        // fileData.push({
-        //     text: prompt,
-        // })
+        
+        // Log PDF sizes for debugging
+        const totalSize = validFileData.reduce((sum, file) => {
+            const base64Size = file.inlineData.data.length;
+            return sum + base64Size;
+        }, 0);
+        console.log(`[LLM] Total PDF data size: ${(totalSize / 1024 / 1024).toFixed(2)} MB (${validFileData.length} files)`);
+        
         const contents = [
             {
                 role: 'user',
-                parts: fileData
+                parts: validFileData
             }
         ]
         console.log(`[LLM] All PDF downloads completed in ${pdfDownloadEndTime - pdfDownloadStartTime}ms (parallel processing)`);
         
         // Generate content with files
         const llmStartTime = Date.now();
-        console.log(`[LLM] Starting Gemini API call with ${documents.length} documents`);
-        console.log(config);
-        // console.log(JSON.stringify(contents));
-        const response = await genAI.models.generateContent({model, contents, config});
-        // console.log(response.candidates[0].content.parts[0].text);
-        // const response =  result.response;
+        console.log(`[LLM] Starting Gemini API call with ${validFileData.length} documents using ${model}`);
+        console.log(`[LLM] Config:`, JSON.stringify(config.generationConfig));
+        
+        // Add timeout to prevent long processing (increased to 45 seconds)
+        const apiCallPromise = genAI.models.generateContent({model, contents, config});
+        const timeoutPromise = new Promise((_, reject) => {
+            setTimeout(() => reject(new Error('Gemini API timeout after 45 seconds')), 90000);
+        });
+        
+        const response = await Promise.race([apiCallPromise, timeoutPromise]);
+        
         const llmEndTime = Date.now();
         console.log(`[LLM] Gemini API call completed in ${llmEndTime - llmStartTime}ms`);
         
@@ -81,7 +125,6 @@ export const askGemini = async (prompt, documents = []) => {
         
     } catch (error) {
         const totalTime = Date.now() - startTime;
-        
         console.error(`[LLM] Error with Gemini API after ${totalTime}ms:`, error);
         throw error;
     }
