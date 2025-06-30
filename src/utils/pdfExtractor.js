@@ -30,7 +30,6 @@ export const getDocumentsByDateRange = async (startDate, endDate) => {
         snapshot.forEach(doc => {
             const data = doc.data();
             const docDate = new Date(data.date).getTime();
-            console.log(docDate, start, end, 'ldfkhdksjf')
             
             // Check if document date falls within the range
             if (docDate >= start && docDate <= end) {
@@ -126,7 +125,6 @@ export const downloadPDFFromURL = async (url) => {
         console.log('Extracted file path:', filePath);
         const file = bucket.file(filePath);
         const [buffer] = await file.download();
-        console.log(buffer, 'bufferbufferbufferbuffer')
         return buffer;
     } catch (error) {
         console.error(`Error downloading PDF from URL ${url}:`, error);
