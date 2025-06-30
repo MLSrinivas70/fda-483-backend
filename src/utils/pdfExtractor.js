@@ -78,6 +78,21 @@ export const getDocumentsByFeiNumbers = async (feiNumbers) => {
     }
 };
 
+export const getFirebaseData = async() => {
+    try {
+        const snapshot = await db.collection('fda-483-documents').get();
+        const documents = [];
+        snapshot.forEach(doc => {
+            const data = doc.data();
+            documents.push(data);
+        });
+        return documents;
+    } catch (error) {
+        console.error('Error fetching documents from Firestore:', error);
+        return [];
+    }
+};
+
 export const downloadPDFFromFirebase = async (fileName) => {
     try {
         const file = bucket.file(fileName);

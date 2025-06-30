@@ -1,26 +1,27 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
-import { getDocumentsByDateRange, downloadPDFFromURL, getDocumentsByFeiNumbers } from '../utils/pdfExtractor.js';
+import { getDocumentsByDateRange, downloadPDFFromURL, getDocumentsByFeiNumbers, getFirebaseData } from '../utils/pdfExtractor.js';
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
 const askGemini = async (prompt, documents = []) => {
-    const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
+    const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
     
     try {
-        // Prepare file data for Gemini
-        const fileData = [];
-        
-        for (const document of documents) {
+        // Prepare file data for Gemini in parallel
+        const fileDataPromises = documents.map(async (document) => {
             // Download PDF from Firebase Storage URL
             const fileBuffer = await downloadPDFFromURL(document.url);
             
-            fileData.push({
+            return {
                 inlineData: {
                     data: fileBuffer.toString('base64'),
                     mimeType: 'application/pdf'
                 }
-            });
-        }
+            };
+        });
+        
+        // Wait for all PDF downloads to complete in parallel
+        const fileData = await Promise.all(fileDataPromises);
         
         // Generate content with files
         const result = await model.generateContent([prompt, ...fileData]);
@@ -135,6 +136,19 @@ export const fetchFeiNumbers = async(feiNumbers) => {
         return result;
     } catch (error) {
         console.error('Error in fetchFeiNumbers:', error);
+        return { error: 'Failed to process request', details: error.message };
+    }
+}
+
+export const fetchFirebaseData = async() => {
+    try {
+        const documents = await getFirebaseData();
+        if (documents.length === 0) {
+            return { error: `No documents found in Firebase Firestore for the date range: ${startDate} to ${endDate}` };
+        }
+        return documents;
+    } catch (error) {
+        console.error('Error in fetchFirebaseData:', error);
         return { error: 'Failed to process request', details: error.message };
     }
 }

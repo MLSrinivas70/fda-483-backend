@@ -1,5 +1,5 @@
 import express from 'express';
-import { fetchFeiNumbers, fetchTimeAnalysis } from '../controllers/index.js';
+import { fetchFeiNumbers, fetchFirebaseData, fetchTimeAnalysis } from '../controllers/index.js';
 
 const router = express.Router();
 
@@ -58,6 +58,14 @@ router.post('/browseDocuments', async (req, res) => {
         console.error('Error listing documents from Firestore:', error);
         res.status(500).json({ error: 'Failed to list documents from Firestore', details: error.message });
     }
+});
+
+router.get('/firebaseData', async (req, res) => {
+    const result = await fetchFirebaseData();
+    if (result.error) {
+        return res.status(500).json(result);
+    }
+    res.json(result);
 });
 
 export default router;
